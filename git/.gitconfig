@@ -1,0 +1,11 @@
+[user]
+	name = lizi-garden
+	email = lkw1411026824@outlook.com
+[http]
+	sslVerify = true
+[http "https://github.com"]
+	proxy = socks5://127.0.0.1:7891
+[credential]
+	helper = store
+[init]
+	defaultBranch = master

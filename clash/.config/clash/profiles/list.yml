@@ -1,0 +1,58 @@
+files:
+  - time: 1664340097014.yml
+    name: Paoluz
+    url: https://api.bianyuan.xyz/sub?target=clash&udp=true&new_name=true&emoji=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FHynoR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&filename=Paoluz_Cat4Tj&url=https://api-goodtek.loliloli.live/link/Q1UlcioDEcJNTyYd?list=kitsunebi
+    selected:
+      - name: GLOBAL
+        now: DIRECT
+      - name: 🚀 节点选择
+        now: ♻️ 自动选择
+      - name: 🌍 国外媒体
+        now: 🚀 节点选择
+      - name: 📲 电报信息
+        now: 🚀 节点选择
+      - name: Ⓜ️ 微软服务
+        now: 🎯 全球直连
+      - name: 🍎 苹果服务
+        now: 🚀 节点选择
+      - name: 📢 谷歌FCM
+        now: 🚀 节点选择
+      - name: 🎯 全球直连
+        now: DIRECT
+      - name: 🛑 全球拦截
+        now: REJECT
+      - name: 🍃 应用净化
+        now: REJECT
+      - name: 🐟 漏网之鱼
+        now: 🚀 节点选择
+    interval: 24
+    subInfo:
+      upload: 88574233
+      download: 3629015800
+      total: 107701338112
+      expire: 1672115453
+    mode: rule
+    cron: ""
+    headers: ""
+    homeWeb: https://yaofan.cc/runaway/
+  - time: 1665236321507.yml
+    name: 芝麻
+    url: https://00.222333123.xyz/api/v1/client/subscribe?token=0b401fd46ce2b30daecc991fa5ea67ef
+    selected: []
+    interval: 24
+    subInfo: {}
+    homeWeb: ""
+  - time: 1665236769405.yml
+    name: HuTaoCloud
+    url: https://hutaod.com/link/fVFPWZ0yq1lB0Kdh?clash=1
+    selected: []
+    interval: 24
+    subInfo:
+      upload: 208088
+      download: 32130
+      total: 9437184
+      expire: 2208787200
+    homeWeb: ""
+    cron: ""
+    headers: ""
+index: 0

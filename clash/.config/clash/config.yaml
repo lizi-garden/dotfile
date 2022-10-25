@@ -1,0 +1,19 @@
+# HTTP(S) and SOCKS4(A)/SOCKS5 server on the same port
+# 端口
+mixed-port: 7890
+
+# Set to true to allow connections to the local-end server from
+# other LAN IP addresses
+# 局域网连接
+allow-lan: true
+
+# RESTful web API listening address
+# 监听地址
+external-controller: 127.0.0.1:45719
+
+# Secret for the RESTful API (optional)
+# Authenticate by spedifying HTTP header `Authorization: Bearer ${secret}`
+# ALWAYS set a secret if RESTful API is listening on 0.0.0.0
+# RESful 密钥
+secret: 2298e422-3240-4af0-a605-72200d35daf5
+ipv6: true
